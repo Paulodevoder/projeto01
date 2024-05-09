@@ -21,12 +21,6 @@ body{
     align-items: center;
     right: 100px;
 }
-/* .cabecao-esq{
-    left: 100px;
-    flex-direction: row;
-    align-items: center;
-    display: flex;
-} */
 
 .cabecalho{
     background-color: var(--cor-cabecao);
@@ -36,12 +30,6 @@ body{
     padding: 0 10%;
 }
 
-/* .cabecao-esq{ 
-    background-color: var(--cor-cabecao);
-    justify-content: left;
-    height: 3.5em;
-}
-*/
 .cabecao-dir{
 
     background-color: var(--cor-cabecao);
@@ -51,9 +39,6 @@ body{
 .cabecao-dir{
     gap: 54px;
 }
-/* .cabecao-esq{
-    gap: 160px;
-} */
 
 .cabecao-dir a{
     text-decoration: none;
@@ -61,17 +46,6 @@ body{
     font-weight: bold;
     right: 50px;
 }
-/* .cabecao-esq a{
-    text-decoration: none;
-    transition: 0.2ms;
-    font-weight: bold;
-    left: 400px;
-} */
-
-
-
-
-
 
 .register-user{
     padding-top: 45px;
